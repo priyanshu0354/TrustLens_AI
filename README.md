@@ -41,6 +41,7 @@ Then open the local URL shown by Streamlit, usually:
 
 `http://localhost:8501`
 
+Deployment link :(https://trustlensai-lzsozzrethjmyigw6dxvr4.streamlit.app/)
 ## Demo cases
 
 ### High risk
