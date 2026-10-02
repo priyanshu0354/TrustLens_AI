@@ -1,0 +1,501 @@
+id,text,label,category,urgency,credential_request,financial_request,suspicious_url
+362,Important: You won a prize worth ₹249. Claim it immediately at http://secure-check.example.,1,Job / Prize Scam,1,0,1,1
+74,Action required: Your wallet has received a suspicious request. Approve it at http://account-alert.example/login.,1,Financial Scam,1,0,1,1
+375,"Update: Congratulations, you are a lucky winner. Complete verification at http://reward-claim.example.",1,Job / Prize Scam,1,1,1,1
+156,Action required: Confirm your username and password at https://example.org/verify to prevent account closure.,1,Credential Scam,1,1,0,1
+105,Update: Complete the verification to receive your ₹999 payment at https://example.org/verify.,1,Financial Scam,1,0,1,1
+395,"Update: Congratulations, you are a lucky winner. Complete verification at https://example.org/verify.",1,Job / Prize Scam,1,1,1,1
+378,Important: Work-from-home opportunity: submit your bank details at http://secure-check.example.,1,Job / Prize Scam,1,1,1,1
+125,Alert: Use http://account-alert.example/login and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+69,Update: Your wallet has received a suspicious request. Approve it at http://reward-claim.example.,1,Financial Scam,1,0,1,1
+451,Alert: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+10,Important: We detected a security issue. Sign in through http://secure-check.example to secure your account.,1,Phishing,1,1,0,1
+195,Alert: View your message here: https://example.com/notice,1,Suspicious Link,0,0,0,1
+407,Update: You won a prize worth ₹999. Claim it immediately at http://reward-claim.example.,1,Job / Prize Scam,1,0,1,1
+85,Update: Complete the verification to receive your ₹999 payment at http://reward-claim.example.,1,Financial Scam,1,0,1,1
+372,Action required: You won a prize worth ₹1999. Claim it immediately at http://account-alert.example/login.,1,Job / Prize Scam,1,0,1,1
+389,Alert: Limited vacancies available. Registration closes today at http://delivery-update.example.,1,Job / Prize Scam,1,0,0,1
+496,Important: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+31,Update: Your account needs immediate verification. Open http://reward-claim.example to keep access.,1,Phishing,1,1,0,1
+317,Update: Delivery address issue detected. Confirm your details at https://example.com/notice.,1,Delivery Scam,1,1,0,1
+409,Alert: Limited vacancies available. Registration closes today at http://verify-account.example.,1,Job / Prize Scam,1,0,0,1
+491,Alert: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+492,Important: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+281,Alert: Your social account may be suspended. Appeal now at http://secure-check.example.,1,Social Media Scam,1,1,0,1
+357,Update: Delivery address issue detected. Confirm your details at https://example.com/notice.,1,Delivery Scam,1,1,0,1
+77,Update: A refund of ₹999 is waiting. Submit your details at http://reward-claim.example.,1,Financial Scam,1,0,1,1
+462,Action required: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+498,Action required: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+212,Important: Open http://reward-claim.example to view the latest account update.,1,Suspicious Link,0,0,0,1
+102,Action required: A refund of ₹1999 is waiting. Submit your details at http://support-check.example.,1,Financial Scam,1,0,1,1
+335,Alert: Your package tracking needs confirmation. Open http://support-check.example.,1,Delivery Scam,0,0,0,1
+476,Important: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+337,Update: Delivery address issue detected. Confirm your details at http://secure-check.example.,1,Delivery Scam,1,1,0,1
+441,Update: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+174,Important: Verify your sign-in credentials at http://delivery-update.example before access is suspended.,1,Credential Scam,1,1,0,1
+3,Update: Your login session is at risk. Verify your identity using https://example.org/verify.,1,Phishing,1,1,0,1
+334,Action required: A small delivery fee of ₹1999 is required. Complete it at http://reward-claim.example.,1,Delivery Scam,1,0,1,1
+410,"Important: Congratulations, you are a lucky winner. Complete verification at http://secure-check.example.",1,Job / Prize Scam,1,1,1,1
+71,Alert: Your payment of ₹149 is pending. Resolve it immediately at http://verify-account.example.,1,Financial Scam,1,0,1,1
+210,Action required: View your message here: http://delivery-update.example,1,Suspicious Link,0,0,0,1
+64,Important: Your wallet has received a suspicious request. Approve it at http://secure-check.example.,1,Financial Scam,1,0,1,1
+385,"Alert: Congratulations, you are a lucky winner. Complete verification at http://verify-account.example.",1,Job / Prize Scam,1,1,1,1
+94,Action required: Your wallet has received a suspicious request. Approve it at http://support-check.example.,1,Financial Scam,1,0,1,1
+486,Action required: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+186,Action required: Click http://delivery-update.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+34,Important: your account will be restricted unless you verify now at http://secure-check.example.,1,Phishing,1,1,0,1
+78,Action required: You have been selected for a cash reward of ₹1999. Claim at http://support-check.example.,1,Financial Scam,1,0,1,1
+1,Alert: Your account needs immediate verification. Open http://verify-account.example to keep access.,1,Phishing,1,1,0,1
+12,Action required: Security alert: unusual activity detected. Confirm your account at http://account-alert.example/login.,1,Phishing,1,1,0,1
+416,Action required: Congratulations! You have been shortlisted for a job. Pay ₹1999 to confirm.,1,Job / Prize Scam,1,0,1,1
+23,Update: Your login session is at risk. Verify your identity using http://reward-claim.example.,1,Phishing,1,1,0,1
+73,Update: You have been selected for a cash reward of ₹999. Claim at https://example.org/verify.,1,Financial Scam,1,0,1,1
+183,Alert: Your document is ready. Download it from http://secure-check.example.,1,Suspicious Link,1,0,0,1
+132,Action required: Enter your login details at https://example.org/verify to complete the security check.,1,Credential Scam,1,1,0,1
+411,Update: Congratulations! You have been shortlisted for a job. Pay ₹999 to confirm.,1,Job / Prize Scam,1,0,1,1
+194,Action required: Tap http://delivery-update.example to continue the requested verification.,1,Suspicious Link,1,1,0,1
+56,Action required: Your account needs immediate verification. Open http://support-check.example to keep access.,1,Phishing,1,1,0,1
+149,Alert: Verify your sign-in credentials at http://account-alert.example/login before access is suspended.,1,Credential Scam,1,1,0,1
+19,Update: Important: your account will be restricted unless you verify now at https://example.org/verify.,1,Phishing,1,1,0,1
+205,Update: View your message here: http://support-check.example,1,Suspicious Link,0,0,0,1
+79,Alert: Your wallet has received a suspicious request. Approve it at http://verify-account.example.,1,Financial Scam,1,0,1,1
+495,Alert: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+263,Update: Your creator reward is ready. Claim it through http://support-check.example.,1,Social Media Scam,1,0,1,1
+324,Important: A small delivery fee of ₹249 is required. Complete it at http://delivery-update.example.,1,Delivery Scam,1,0,1,1
+484,Important: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+80,Important: Complete the verification to receive your ₹249 payment at http://secure-check.example.,1,Financial Scam,1,0,1,1
+40,Action required: We detected a security issue. Sign in through http://support-check.example to secure your account.,1,Phishing,1,1,0,1
+452,Important: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+47,Update: Security alert: unusual activity detected. Confirm your account at http://reward-claim.example.,1,Phishing,1,1,0,1
+239,Alert: Tap http://secure-check.example to continue the requested verification.,1,Suspicious Link,1,1,0,1
+392,Action required: You won a prize worth ₹1999. Claim it immediately at http://support-check.example.,1,Job / Prize Scam,1,0,1,1
+353,Update: Your shipment is on hold. Update information at http://secure-check.example.,1,Delivery Scam,1,1,0,1
+342,Action required: Delivery address issue detected. Confirm your details at http://reward-claim.example.,1,Delivery Scam,1,1,0,1
+278,Important: Your creator reward is ready. Claim it through http://reward-claim.example.,1,Social Media Scam,1,0,1,1
+291,Update: Your social account may be suspended. Appeal now at http://account-alert.example/login.,1,Social Media Scam,1,1,0,1
+318,Action required: Your shipment is on hold. Update information at http://reward-claim.example.,1,Delivery Scam,1,1,0,1
+305,Update: Your package tracking needs confirmation. Open http://secure-check.example.,1,Delivery Scam,0,0,0,1
+269,Alert: Someone reported your profile. Review the case at https://example.com/notice.,1,Social Media Scam,1,1,0,1
+70,Action required: Complete the verification to receive your ₹1999 payment at http://support-check.example.,1,Financial Scam,1,0,1,1
+456,Important: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+466,Action required: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+155,Update: Use http://secure-check.example and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+83,Alert: You have been selected for a cash reward of ₹149. Claim at http://delivery-update.example.,1,Financial Scam,1,0,1,1
+478,Action required: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+173,Alert: Your password has expired. Update it immediately using http://account-alert.example/login.,1,Credential Scam,1,1,0,1
+322,Action required: Delivery address issue detected. Confirm your details at https://example.org/verify.,1,Delivery Scam,1,1,0,1
+91,Alert: Your payment of ₹149 is pending. Resolve it immediately at http://delivery-update.example.,1,Financial Scam,1,0,1,1
+181,Update: Click http://support-check.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+415,"Update: Congratulations, you are a lucky winner. Complete verification at http://reward-claim.example.",1,Job / Prize Scam,1,1,1,1
+313,Update: Your shipment is on hold. Update information at http://secure-check.example.,1,Delivery Scam,1,1,0,1
+279,Update: Someone reported your profile. Review the case at http://support-check.example.,1,Social Media Scam,1,1,0,1
+382,Important: You won a prize worth ₹249. Claim it immediately at https://example.com/notice.,1,Job / Prize Scam,1,0,1,1
+473,Update: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+363,Update: Work-from-home opportunity: submit your bank details at https://example.org/verify.,1,Job / Prize Scam,1,1,1,1
+325,Update: Your package tracking needs confirmation. Open https://example.com/notice.,1,Delivery Scam,0,0,0,1
+432,Important: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+348,Important: Your shipment is on hold. Update information at http://delivery-update.example.,1,Delivery Scam,1,1,0,1
+87,Alert: A refund of ₹149 is waiting. Submit your details at http://verify-account.example.,1,Financial Scam,1,0,1,1
+76,Important: Your payment of ₹249 is pending. Resolve it immediately at https://example.com/notice.,1,Financial Scam,1,0,1,1
+439,Alert: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+16,Action required: Your account needs immediate verification. Open http://support-check.example to keep access.,1,Phishing,1,1,0,1
+250,Important: Your account has been selected for a special badge. Apply at https://example.org/verify.,1,Social Media Scam,0,0,0,1
+434,Action required: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+20,Action required: We detected a security issue. Sign in through http://account-alert.example/login to secure your account.,1,Phishing,1,1,0,1
+323,Alert: Your shipment is on hold. Update information at http://account-alert.example/login.,1,Delivery Scam,1,1,0,1
+333,Update: Your shipment is on hold. Update information at https://example.com/notice.,1,Delivery Scam,1,1,0,1
+57,Alert: Security alert: unusual activity detected. Confirm your account at http://verify-account.example.,1,Phishing,1,1,0,1
+302,Action required: Delivery address issue detected. Confirm your details at http://reward-claim.example.,1,Delivery Scam,1,1,0,1
+230,Action required: View your message here: http://verify-account.example,1,Suspicious Link,0,0,0,1
+332,Important: Delivery address issue detected. Confirm your details at http://delivery-update.example.,1,Delivery Scam,1,1,0,1
+133,Alert: Your password has expired. Update it immediately using http://account-alert.example/login.,1,Credential Scam,1,1,0,1
+138,Important: Your password has expired. Update it immediately using http://verify-account.example.,1,Credential Scam,1,1,0,1
+424,Important: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+336,Important: Your parcel could not be delivered. Pay ₹249 and reschedule at http://verify-account.example.,1,Delivery Scam,1,0,1,1
+26,Important: Your account needs immediate verification. Open http://secure-check.example to keep access.,1,Phishing,1,1,0,1
+465,Update: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+282,Important: You have a new verification request. Confirm it at https://example.org/verify.,1,Social Media Scam,1,1,0,1
+248,Action required: Your creator reward is ready. Claim it through http://verify-account.example.,1,Social Media Scam,1,0,1,1
+238,Action required: Your document is ready. Download it from http://verify-account.example.,1,Suspicious Link,1,0,0,1
+118,Action required: You have been selected for a cash reward of ₹1999. Claim at http://support-check.example.,1,Financial Scam,1,0,1,1
+43,Update: Your login session is at risk. Verify your identity using https://example.org/verify.,1,Phishing,1,1,0,1
+221,Update: Click http://support-check.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+177,Alert: Enter your login details at http://support-check.example to complete the security check.,1,Credential Scam,1,1,0,1
+321,Update: Your parcel could not be delivered. Pay ₹999 and reschedule at http://secure-check.example.,1,Delivery Scam,1,0,1,1
+154,Important: Verify your sign-in credentials at http://verify-account.example before access is suspended.,1,Credential Scam,1,1,0,1
+232,Important: Open https://example.org/verify to view the latest account update.,1,Suspicious Link,0,0,0,1
+228,Important: Your document is ready. Download it from http://reward-claim.example.,1,Suspicious Link,1,0,0,1
+418,Important: Work-from-home opportunity: submit your bank details at http://secure-check.example.,1,Job / Prize Scam,1,1,1,1
+204,Important: Tap http://reward-claim.example to continue the requested verification.,1,Suspicious Link,1,1,0,1
+127,Update: Enter your login details at https://example.com/notice to complete the security check.,1,Credential Scam,1,1,0,1
+330,Action required: Your package tracking needs confirmation. Open https://example.org/verify.,1,Delivery Scam,0,0,0,1
+32,Action required: Security alert: unusual activity detected. Confirm your account at http://support-check.example.,1,Phishing,1,1,0,1
+114,Action required: Your wallet has received a suspicious request. Approve it at http://account-alert.example/login.,1,Financial Scam,1,0,1,1
+471,Alert: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+272,Action required: You have a new verification request. Confirm it at http://verify-account.example.,1,Social Media Scam,1,1,0,1
+141,Alert: Confirm your username and password at http://account-alert.example/login to prevent account closure.,1,Credential Scam,1,1,0,1
+58,Important: Your login session is at risk. Verify your identity using http://secure-check.example.,1,Phishing,1,1,0,1
+193,Update: Your document is ready. Download it from http://account-alert.example/login.,1,Suspicious Link,1,0,0,1
+25,Alert: We detected a security issue. Sign in through http://verify-account.example to secure your account.,1,Phishing,1,1,0,1
+18,Important: Your login session is at risk. Verify your identity using http://secure-check.example.,1,Phishing,1,1,0,1
+266,Important: Your social account may be suspended. Appeal now at https://example.org/verify.,1,Social Media Scam,1,1,0,1
+67,Alert: A refund of ₹149 is waiting. Submit your details at http://delivery-update.example.,1,Financial Scam,1,0,1,1
+209,Update: Tap http://account-alert.example/login to continue the requested verification.,1,Suspicious Link,1,1,0,1
+480,Important: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+95,Alert: Complete the verification to receive your ₹149 payment at http://verify-account.example.,1,Financial Scam,1,0,1,1
+254,Important: Someone reported your profile. Review the case at http://reward-claim.example.,1,Social Media Scam,1,1,0,1
+267,Update: You have a new verification request. Confirm it at http://account-alert.example/login.,1,Social Media Scam,1,1,0,1
+24,Action required: Important: your account will be restricted unless you verify now at http://support-check.example.,1,Phishing,1,1,0,1
+223,Alert: Your document is ready. Download it from http://secure-check.example.,1,Suspicious Link,1,0,0,1
+262,Important: You have a new verification request. Confirm it at http://reward-claim.example.,1,Social Media Scam,1,1,0,1
+427,Alert: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+6,Important: Your account needs immediate verification. Open https://example.com/notice to keep access.,1,Phishing,1,1,0,1
+117,Update: A refund of ₹999 is waiting. Submit your details at http://reward-claim.example.,1,Financial Scam,1,0,1,1
+46,Important: Your account needs immediate verification. Open https://example.com/notice to keep access.,1,Phishing,1,1,0,1
+17,Alert: Security alert: unusual activity detected. Confirm your account at http://verify-account.example.,1,Phishing,1,1,0,1
+463,Alert: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+358,Action required: Your shipment is on hold. Update information at http://reward-claim.example.,1,Delivery Scam,1,1,0,1
+4,Action required: Important: your account will be restricted unless you verify now at http://account-alert.example/login.,1,Phishing,1,1,0,1
+219,Alert: Tap https://example.com/notice to continue the requested verification.,1,Suspicious Link,1,1,0,1
+406,Important: Congratulations! You have been shortlisted for a job. Pay ₹249 to confirm.,1,Job / Prize Scam,1,0,1,1
+61,Update: Your payment of ₹999 is pending. Resolve it immediately at http://reward-claim.example.,1,Financial Scam,1,0,1,1
+111,Alert: Your payment of ₹149 is pending. Resolve it immediately at http://verify-account.example.,1,Financial Scam,1,0,1,1
+319,Alert: A small delivery fee of ₹149 is required. Complete it at http://support-check.example.,1,Delivery Scam,1,0,1,1
+429,Update: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+30,Important: We detected a security issue. Sign in through https://example.com/notice to secure your account.,1,Phishing,1,1,0,1
+438,Action required: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+472,Important: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+27,Update: Security alert: unusual activity detected. Confirm your account at https://example.org/verify.,1,Phishing,1,1,0,1
+8,Action required: Your login session is at risk. Verify your identity using http://support-check.example.,1,Phishing,1,1,0,1
+454,Action required: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+109,Update: Your wallet has received a suspicious request. Approve it at http://reward-claim.example.,1,Financial Scam,1,0,1,1
+38,Important: Your login session is at risk. Verify your identity using https://example.com/notice.,1,Phishing,1,1,0,1
+158,Important: Your password has expired. Update it immediately using http://delivery-update.example.,1,Credential Scam,1,1,0,1
+490,Action required: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+119,Alert: Your wallet has received a suspicious request. Approve it at http://verify-account.example.,1,Financial Scam,1,0,1,1
+115,Alert: Complete the verification to receive your ₹149 payment at http://delivery-update.example.,1,Financial Scam,1,0,1,1
+176,Action required: Confirm your username and password at http://reward-claim.example to prevent account closure.,1,Credential Scam,1,1,0,1
+374,Important: Limited vacancies available. Registration closes today at https://example.com/notice.,1,Job / Prize Scam,1,0,0,1
+182,Action required: Open http://verify-account.example to view the latest account update.,1,Suspicious Link,0,0,0,1
+145,Alert: Use http://support-check.example and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+370,"Important: Congratulations, you are a lucky winner. Complete verification at http://secure-check.example.",1,Job / Prize Scam,1,1,1,1
+391,Update: Congratulations! You have been shortlisted for a job. Pay ₹999 to confirm.,1,Job / Prize Scam,1,0,1,1
+196,Important: Click http://reward-claim.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+405,"Alert: Congratulations, you are a lucky winner. Complete verification at http://delivery-update.example.",1,Job / Prize Scam,1,1,1,1
+276,Action required: Your social account may be suspended. Appeal now at http://delivery-update.example.,1,Social Media Scam,1,1,0,1
+455,Alert: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+142,Important: Enter your login details at http://delivery-update.example to complete the security check.,1,Credential Scam,1,1,0,1
+366,Important: Congratulations! You have been shortlisted for a job. Pay ₹249 to confirm.,1,Job / Prize Scam,1,0,1,1
+68,Important: You have been selected for a cash reward of ₹249. Claim at https://example.com/notice.,1,Financial Scam,1,0,1,1
+211,Alert: Click https://example.com/notice to check your pending notification.,1,Suspicious Link,1,0,0,1
+169,Alert: Verify your sign-in credentials at http://support-check.example before access is suspended.,1,Credential Scam,1,1,0,1
+494,Action required: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+376,Action required: Congratulations! You have been shortlisted for a job. Pay ₹1999 to confirm.,1,Job / Prize Scam,1,0,1,1
+401,Alert: Congratulations! You have been shortlisted for a job. Pay ₹149 to confirm.,1,Job / Prize Scam,1,0,1,1
+273,Alert: Your creator reward is ready. Claim it through http://secure-check.example.,1,Social Media Scam,1,0,1,1
+110,Action required: Complete the verification to receive your ₹1999 payment at http://support-check.example.,1,Financial Scam,1,0,1,1
+249,Alert: Someone reported your profile. Review the case at http://secure-check.example.,1,Social Media Scam,1,1,0,1
+146,Important: Confirm your username and password at http://verify-account.example to prevent account closure.,1,Credential Scam,1,1,0,1
+93,Update: You have been selected for a cash reward of ₹999. Claim at http://reward-claim.example.,1,Financial Scam,1,0,1,1
+153,Alert: Your password has expired. Update it immediately using http://support-check.example.,1,Credential Scam,1,1,0,1
+368,Action required: Work-from-home opportunity: submit your bank details at http://support-check.example.,1,Job / Prize Scam,1,1,1,1
+468,Important: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+84,Important: Your wallet has received a suspicious request. Approve it at https://example.com/notice.,1,Financial Scam,1,0,1,1
+246,Important: Your social account may be suspended. Appeal now at http://reward-claim.example.,1,Social Media Scam,1,1,0,1
+166,Important: Confirm your username and password at http://delivery-update.example to prevent account closure.,1,Credential Scam,1,1,0,1
+164,Action required: Verify your sign-in credentials at https://example.org/verify before access is suspended.,1,Credential Scam,1,1,0,1
+200,Important: View your message here: https://example.org/verify,1,Suspicious Link,0,0,0,1
+229,Update: Tap http://support-check.example to continue the requested verification.,1,Suspicious Link,1,1,0,1
+75,Alert: Complete the verification to receive your ₹149 payment at http://delivery-update.example.,1,Financial Scam,1,0,1,1
+479,Alert: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+359,Alert: A small delivery fee of ₹149 is required. Complete it at http://support-check.example.,1,Delivery Scam,1,0,1,1
+251,Update: Your social account may be suspended. Appeal now at http://account-alert.example/login.,1,Social Media Scam,1,1,0,1
+120,Important: Complete the verification to receive your ₹249 payment at http://secure-check.example.,1,Financial Scam,1,0,1,1
+311,Alert: Your parcel could not be delivered. Pay ₹149 and reschedule at http://support-check.example.,1,Delivery Scam,1,0,1,1
+300,Action required: Your account has been selected for a special badge. Apply at http://delivery-update.example.,1,Social Media Scam,0,0,0,1
+256,Action required: Your social account may be suspended. Appeal now at http://verify-account.example.,1,Social Media Scam,1,1,0,1
+355,Alert: Your package tracking needs confirmation. Open http://account-alert.example/login.,1,Delivery Scam,0,0,0,1
+400,"Action required: Congratulations, you are a lucky winner. Complete verification at http://support-check.example.",1,Job / Prize Scam,1,1,1,1
+226,Action required: Click http://delivery-update.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+354,Action required: A small delivery fee of ₹1999 is required. Complete it at https://example.org/verify.,1,Delivery Scam,1,0,1,1
+235,Alert: View your message here: https://example.com/notice,1,Suspicious Link,0,0,0,1
+383,Update: Work-from-home opportunity: submit your bank details at http://reward-claim.example.,1,Job / Prize Scam,1,1,1,1
+275,Update: Your account has been selected for a special badge. Apply at http://account-alert.example/login.,1,Social Media Scam,0,0,0,1
+37,Alert: Security alert: unusual activity detected. Confirm your account at http://delivery-update.example.,1,Phishing,1,1,0,1
+197,Update: Open http://support-check.example to view the latest account update.,1,Suspicious Link,0,0,0,1
+140,Action required: Use https://example.org/verify and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+365,"Alert: Congratulations, you are a lucky winner. Complete verification at http://delivery-update.example.",1,Job / Prize Scam,1,1,1,1
+245,Alert: Your account has been selected for a special badge. Apply at https://example.com/notice.,1,Social Media Scam,0,0,0,1
+440,Important: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+287,Update: You have a new verification request. Confirm it at http://support-check.example.,1,Social Media Scam,1,1,0,1
+60,Action required: We detected a security issue. Sign in through http://account-alert.example/login to secure your account.,1,Phishing,1,1,0,1
+112,Important: A refund of ₹249 is waiting. Submit your details at http://secure-check.example.,1,Financial Scam,1,0,1,1
+90,Action required: Complete the verification to receive your ₹1999 payment at http://account-alert.example/login.,1,Financial Scam,1,0,1,1
+437,Update: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+7,Update: Security alert: unusual activity detected. Confirm your account at http://reward-claim.example.,1,Phishing,1,1,0,1
+361,Alert: Congratulations! You have been shortlisted for a job. Pay ₹149 to confirm.,1,Job / Prize Scam,1,0,1,1
+347,Alert: Delivery address issue detected. Confirm your details at http://account-alert.example/login.,1,Delivery Scam,1,1,0,1
+339,Alert: A small delivery fee of ₹149 is required. Complete it at http://account-alert.example/login.,1,Delivery Scam,1,0,1,1
+159,Update: Verify your sign-in credentials at https://example.com/notice before access is suspended.,1,Credential Scam,1,1,0,1
+151,Update: Confirm your username and password at https://example.com/notice to prevent account closure.,1,Credential Scam,1,1,0,1
+178,Important: Your password has expired. Update it immediately using http://verify-account.example.,1,Credential Scam,1,1,0,1
+394,Important: Limited vacancies available. Registration closes today at http://secure-check.example.,1,Job / Prize Scam,1,0,0,1
+185,Update: View your message here: http://account-alert.example/login,1,Suspicious Link,0,0,0,1
+450,Action required: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+11,Update: Your account needs immediate verification. Open https://example.org/verify to keep access.,1,Phishing,1,1,0,1
+381,Alert: Congratulations! You have been shortlisted for a job. Pay ₹149 to confirm.,1,Job / Prize Scam,1,0,1,1
+104,Important: Your wallet has received a suspicious request. Approve it at http://secure-check.example.,1,Financial Scam,1,0,1,1
+82,Action required: A refund of ₹1999 is waiting. Submit your details at http://account-alert.example/login.,1,Financial Scam,1,0,1,1
+39,Update: Important: your account will be restricted unless you verify now at http://reward-claim.example.,1,Phishing,1,1,0,1
+315,Alert: Your package tracking needs confirmation. Open http://account-alert.example/login.,1,Delivery Scam,0,0,0,1
+168,Action required: Your password has expired. Update it immediately using http://reward-claim.example.,1,Credential Scam,1,1,0,1
+470,Action required: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+297,Alert: You have a new verification request. Confirm it at http://secure-check.example.,1,Social Media Scam,1,1,0,1
+475,Alert: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+199,Alert: Tap http://secure-check.example to continue the requested verification.,1,Suspicious Link,1,1,0,1
+298,Important: Your creator reward is ready. Claim it through https://example.org/verify.,1,Social Media Scam,1,0,1,1
+417,Alert: You won a prize worth ₹149. Claim it immediately at http://verify-account.example.,1,Job / Prize Scam,1,0,1,1
+147,Update: Enter your login details at http://secure-check.example to complete the security check.,1,Credential Scam,1,1,0,1
+393,Alert: Work-from-home opportunity: submit your bank details at http://verify-account.example.,1,Job / Prize Scam,1,1,1,1
+148,Action required: Your password has expired. Update it immediately using https://example.org/verify.,1,Credential Scam,1,1,0,1
+448,Important: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+288,Action required: Your creator reward is ready. Claim it through http://verify-account.example.,1,Social Media Scam,1,0,1,1
+124,Action required: Verify your sign-in credentials at https://example.org/verify before access is suspended.,1,Credential Scam,1,1,0,1
+369,Alert: Limited vacancies available. Registration closes today at http://verify-account.example.,1,Job / Prize Scam,1,0,0,1
+97,Update: A refund of ₹999 is waiting. Submit your details at https://example.org/verify.,1,Financial Scam,1,0,1,1
+144,Action required: Verify your sign-in credentials at http://reward-claim.example before access is suspended.,1,Credential Scam,1,1,0,1
+240,Important: View your message here: https://example.org/verify,1,Suspicious Link,0,0,0,1
+443,Alert: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+98,Action required: You have been selected for a cash reward of ₹1999. Claim at http://account-alert.example/login.,1,Financial Scam,1,0,1,1
+408,Action required: Work-from-home opportunity: submit your bank details at http://support-check.example.,1,Job / Prize Scam,1,1,1,1
+123,Update: Your password has expired. Update it immediately using http://secure-check.example.,1,Credential Scam,1,1,0,1
+184,Important: Tap https://example.org/verify to continue the requested verification.,1,Suspicious Link,1,1,0,1
+203,Alert: Your document is ready. Download it from https://example.com/notice.,1,Suspicious Link,1,0,0,1
+247,Update: You have a new verification request. Confirm it at http://support-check.example.,1,Social Media Scam,1,1,0,1
+306,Action required: Your parcel could not be delivered. Pay ₹1999 and reschedule at https://example.org/verify.,1,Delivery Scam,1,0,1,1
+299,Update: Someone reported your profile. Review the case at http://account-alert.example/login.,1,Social Media Scam,1,1,0,1
+352,Important: Delivery address issue detected. Confirm your details at http://verify-account.example.,1,Delivery Scam,1,1,0,1
+387,Update: You won a prize worth ₹999. Claim it immediately at https://example.org/verify.,1,Job / Prize Scam,1,0,1,1
+396,Action required: Congratulations! You have been shortlisted for a job. Pay ₹1999 to confirm.,1,Job / Prize Scam,1,0,1,1
+285,Alert: Your account has been selected for a special badge. Apply at https://example.com/notice.,1,Social Media Scam,0,0,0,1
+126,Important: Confirm your username and password at http://delivery-update.example to prevent account closure.,1,Credential Scam,1,1,0,1
+303,Alert: Your shipment is on hold. Update information at http://support-check.example.,1,Delivery Scam,1,1,0,1
+224,Important: Tap https://example.org/verify to continue the requested verification.,1,Suspicious Link,1,1,0,1
+419,Update: Limited vacancies available. Registration closes today at https://example.org/verify.,1,Job / Prize Scam,1,0,0,1
+220,Important: View your message here: http://reward-claim.example,1,Suspicious Link,0,0,0,1
+130,Important: Use http://verify-account.example and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+421,Update: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+290,Important: Your account has been selected for a special badge. Apply at https://example.org/verify.,1,Social Media Scam,0,0,0,1
+445,Update: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+377,Alert: You won a prize worth ₹149. Claim it immediately at http://verify-account.example.,1,Job / Prize Scam,1,0,1,1
+292,Action required: You have a new verification request. Confirm it at http://delivery-update.example.,1,Social Media Scam,1,1,0,1
+356,Important: Your parcel could not be delivered. Pay ₹249 and reschedule at http://delivery-update.example.,1,Delivery Scam,1,0,1,1
+295,Update: Your account has been selected for a special badge. Apply at http://support-check.example.,1,Social Media Scam,0,0,0,1
+397,Alert: You won a prize worth ₹149. Claim it immediately at http://delivery-update.example.,1,Job / Prize Scam,1,0,1,1
+341,Update: Your parcel could not be delivered. Pay ₹999 and reschedule at https://example.com/notice.,1,Delivery Scam,1,0,1,1
+113,Update: You have been selected for a cash reward of ₹999. Claim at https://example.org/verify.,1,Financial Scam,1,0,1,1
+180,Action required: Use https://example.org/verify and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+308,Important: Your shipment is on hold. Update information at http://delivery-update.example.,1,Delivery Scam,1,1,0,1
+433,Update: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+488,Important: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+482,Action required: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+423,Alert: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+234,Action required: Tap http://delivery-update.example to continue the requested verification.,1,Suspicious Link,1,1,0,1
+312,Important: Delivery address issue detected. Confirm your details at http://verify-account.example.,1,Delivery Scam,1,1,0,1
+165,Alert: Use http://account-alert.example/login and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+137,Alert: Enter your login details at http://support-check.example to complete the security check.,1,Credential Scam,1,1,0,1
+198,Action required: Your document is ready. Download it from http://verify-account.example.,1,Suspicious Link,1,0,0,1
+259,Update: Someone reported your profile. Review the case at http://account-alert.example/login.,1,Social Media Scam,1,1,0,1
+233,Update: Your document is ready. Download it from http://account-alert.example/login.,1,Suspicious Link,1,0,0,1
+116,Important: Your payment of ₹249 is pending. Resolve it immediately at https://example.com/notice.,1,Financial Scam,1,0,1,1
+121,Alert: Confirm your username and password at http://support-check.example to prevent account closure.,1,Credential Scam,1,1,0,1
+350,Action required: Your package tracking needs confirmation. Open http://reward-claim.example.,1,Delivery Scam,0,0,0,1
+225,Update: View your message here: http://account-alert.example/login,1,Suspicious Link,0,0,0,1
+403,Update: Work-from-home opportunity: submit your bank details at https://example.org/verify.,1,Job / Prize Scam,1,1,1,1
+398,Important: Work-from-home opportunity: submit your bank details at https://example.com/notice.,1,Job / Prize Scam,1,1,1,1
+128,Action required: Your password has expired. Update it immediately using http://reward-claim.example.,1,Credential Scam,1,1,0,1
+286,Important: Your social account may be suspended. Appeal now at http://reward-claim.example.,1,Social Media Scam,1,1,0,1
+412,Action required: You won a prize worth ₹1999. Claim it immediately at http://account-alert.example/login.,1,Job / Prize Scam,1,0,1,1
+108,Important: You have been selected for a cash reward of ₹249. Claim at https://example.com/notice.,1,Financial Scam,1,0,1,1
+371,Update: Congratulations! You have been shortlisted for a job. Pay ₹999 to confirm.,1,Job / Prize Scam,1,0,1,1
+326,Action required: Your parcel could not be delivered. Pay ₹1999 and reschedule at http://reward-claim.example.,1,Delivery Scam,1,0,1,1
+134,Important: Verify your sign-in credentials at http://delivery-update.example before access is suspended.,1,Credential Scam,1,1,0,1
+453,Update: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+45,Alert: We detected a security issue. Sign in through http://delivery-update.example to secure your account.,1,Phishing,1,1,0,1
+461,Update: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+66,Action required: Your payment of ₹1999 is pending. Resolve it immediately at http://account-alert.example/login.,1,Financial Scam,1,0,1,1
+284,Action required: Someone reported your profile. Review the case at http://delivery-update.example.,1,Social Media Scam,1,1,0,1
+86,Action required: Your payment of ₹1999 is pending. Resolve it immediately at http://support-check.example.,1,Financial Scam,1,0,1,1
+243,Update: Your creator reward is ready. Claim it through http://account-alert.example/login.,1,Social Media Scam,1,0,1,1
+187,Alert: Open https://example.com/notice to view the latest account update.,1,Suspicious Link,0,0,0,1
+384,Action required: Limited vacancies available. Registration closes today at http://support-check.example.,1,Job / Prize Scam,1,0,0,1
+160,Action required: Use http://reward-claim.example and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+13,Alert: Your login session is at risk. Verify your identity using http://delivery-update.example.,1,Phishing,1,1,0,1
+36,Action required: Your account needs immediate verification. Open http://account-alert.example/login to keep access.,1,Phishing,1,1,0,1
+29,Alert: Important: your account will be restricted unless you verify now at http://delivery-update.example.,1,Phishing,1,1,0,1
+171,Update: Confirm your username and password at http://secure-check.example to prevent account closure.,1,Credential Scam,1,1,0,1
+143,Update: Your password has expired. Update it immediately using https://example.com/notice.,1,Credential Scam,1,1,0,1
+399,Update: Limited vacancies available. Registration closes today at http://reward-claim.example.,1,Job / Prize Scam,1,0,0,1
+343,Alert: Your shipment is on hold. Update information at http://support-check.example.,1,Delivery Scam,1,1,0,1
+222,Action required: Open http://verify-account.example to view the latest account update.,1,Suspicious Link,0,0,0,1
+96,Important: Your payment of ₹249 is pending. Resolve it immediately at http://secure-check.example.,1,Financial Scam,1,0,1,1
+52,Action required: Security alert: unusual activity detected. Confirm your account at http://account-alert.example/login.,1,Phishing,1,1,0,1
+241,Alert: Your social account may be suspended. Appeal now at http://secure-check.example.,1,Social Media Scam,1,1,0,1
+485,Update: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+379,Update: Limited vacancies available. Registration closes today at https://example.org/verify.,1,Job / Prize Scam,1,0,0,1
+179,Update: Verify your sign-in credentials at http://secure-check.example before access is suspended.,1,Credential Scam,1,1,0,1
+42,Important: Security alert: unusual activity detected. Confirm your account at http://secure-check.example.,1,Phishing,1,1,0,1
+499,Alert: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+422,Action required: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+207,Alert: Open http://secure-check.example to view the latest account update.,1,Suspicious Link,0,0,0,1
+283,Update: Your creator reward is ready. Claim it through http://account-alert.example/login.,1,Social Media Scam,1,0,1,1
+255,Update: Your account has been selected for a special badge. Apply at http://support-check.example.,1,Social Media Scam,0,0,0,1
+413,Alert: Work-from-home opportunity: submit your bank details at http://delivery-update.example.,1,Job / Prize Scam,1,1,1,1
+5,Alert: We detected a security issue. Sign in through http://delivery-update.example to secure your account.,1,Phishing,1,1,0,1
+257,Alert: You have a new verification request. Confirm it at http://secure-check.example.,1,Social Media Scam,1,1,0,1
+449,Update: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+101,Update: Your payment of ₹999 is pending. Resolve it immediately at http://reward-claim.example.,1,Financial Scam,1,0,1,1
+227,Alert: Open https://example.com/notice to view the latest account update.,1,Suspicious Link,0,0,0,1
+430,Action required: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+214,Action required: Tap http://verify-account.example to continue the requested verification.,1,Suspicious Link,1,1,0,1
+172,Action required: Enter your login details at https://example.org/verify to complete the security check.,1,Credential Scam,1,1,0,1
+99,Alert: Your wallet has received a suspicious request. Approve it at http://delivery-update.example.,1,Financial Scam,1,0,1,1
+293,Alert: Your creator reward is ready. Claim it through https://example.com/notice.,1,Social Media Scam,1,0,1,1
+216,Important: Click https://example.org/verify to check your pending notification.,1,Suspicious Link,1,0,0,1
+62,Action required: A refund of ₹1999 is waiting. Submit your details at http://support-check.example.,1,Financial Scam,1,0,1,1
+48,Action required: Your login session is at risk. Verify your identity using http://support-check.example.,1,Phishing,1,1,0,1
+33,Alert: Your login session is at risk. Verify your identity using http://verify-account.example.,1,Phishing,1,1,0,1
+268,Action required: Your creator reward is ready. Claim it through http://delivery-update.example.,1,Social Media Scam,1,0,1,1
+328,Important: Your shipment is on hold. Update information at http://verify-account.example.,1,Delivery Scam,1,1,0,1
+201,Update: Click http://account-alert.example/login to check your pending notification.,1,Suspicious Link,1,0,0,1
+447,Alert: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+28,Action required: Your login session is at risk. Verify your identity using http://account-alert.example/login.,1,Phishing,1,1,0,1
+425,Update: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+231,Alert: Click http://secure-check.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+261,Alert: Your social account may be suspended. Appeal now at https://example.com/notice.,1,Social Media Scam,1,1,0,1
+289,Alert: Someone reported your profile. Review the case at http://secure-check.example.,1,Social Media Scam,1,1,0,1
+163,Update: Your password has expired. Update it immediately using http://secure-check.example.,1,Credential Scam,1,1,0,1
+426,Action required: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+139,Update: Verify your sign-in credentials at http://secure-check.example before access is suspended.,1,Credential Scam,1,1,0,1
+63,Alert: You have been selected for a cash reward of ₹149. Claim at http://verify-account.example.,1,Financial Scam,1,0,1,1
+136,Action required: Confirm your username and password at http://reward-claim.example to prevent account closure.,1,Credential Scam,1,1,0,1
+129,Alert: Verify your sign-in credentials at http://support-check.example before access is suspended.,1,Credential Scam,1,1,0,1
+477,Update: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+9,Alert: Important: your account will be restricted unless you verify now at http://verify-account.example.,1,Phishing,1,1,0,1
+327,Alert: Delivery address issue detected. Confirm your details at http://support-check.example.,1,Delivery Scam,1,1,0,1
+464,Important: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+65,Update: Complete the verification to receive your ₹999 payment at https://example.org/verify.,1,Financial Scam,1,0,1,1
+301,Update: Your parcel could not be delivered. Pay ₹999 and reschedule at https://example.com/notice.,1,Delivery Scam,1,0,1,1
+15,Update: We detected a security issue. Sign in through http://reward-claim.example to secure your account.,1,Phishing,1,1,0,1
+157,Alert: Enter your login details at http://account-alert.example/login to complete the security check.,1,Credential Scam,1,1,0,1
+41,Alert: Your account needs immediate verification. Open http://verify-account.example to keep access.,1,Phishing,1,1,0,1
+380,"Action required: Congratulations, you are a lucky winner. Complete verification at http://account-alert.example/login.",1,Job / Prize Scam,1,1,1,1
+469,Update: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+404,Action required: Limited vacancies available. Registration closes today at http://account-alert.example/login.,1,Job / Prize Scam,1,0,0,1
+217,Update: Open http://account-alert.example/login to view the latest account update.,1,Suspicious Link,0,0,0,1
+280,Action required: Your account has been selected for a special badge. Apply at http://verify-account.example.,1,Social Media Scam,0,0,0,1
+435,Alert: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+431,Alert: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+338,Action required: Your shipment is on hold. Update information at https://example.org/verify.,1,Delivery Scam,1,1,0,1
+237,Update: Open http://support-check.example to view the latest account update.,1,Suspicious Link,0,0,0,1
+208,Important: Your document is ready. Download it from https://example.org/verify.,1,Suspicious Link,1,0,0,1
+213,Update: Your document is ready. Download it from http://support-check.example.,1,Suspicious Link,1,0,0,1
+296,Action required: Your social account may be suspended. Appeal now at http://verify-account.example.,1,Social Media Scam,1,1,0,1
+458,Action required: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+252,Action required: You have a new verification request. Confirm it at http://delivery-update.example.,1,Social Media Scam,1,1,0,1
+489,Update: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+487,Alert: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+304,Important: A small delivery fee of ₹249 is required. Complete it at http://verify-account.example.,1,Delivery Scam,1,0,1,1
+351,Alert: Your parcel could not be delivered. Pay ₹149 and reschedule at http://support-check.example.,1,Delivery Scam,1,0,1,1
+270,Important: Your account has been selected for a special badge. Apply at http://reward-claim.example.,1,Social Media Scam,0,0,0,1
+202,Action required: Open http://delivery-update.example to view the latest account update.,1,Suspicious Link,0,0,0,1
+162,Important: Enter your login details at http://verify-account.example to complete the security check.,1,Credential Scam,1,1,0,1
+44,Action required: Important: your account will be restricted unless you verify now at http://account-alert.example/login.,1,Phishing,1,1,0,1
+218,Action required: Your document is ready. Download it from http://delivery-update.example.,1,Suspicious Link,1,0,0,1
+402,Important: You won a prize worth ₹249. Claim it immediately at http://secure-check.example.,1,Job / Prize Scam,1,0,1,1
+191,Alert: Click http://secure-check.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+310,Action required: Your package tracking needs confirmation. Open http://reward-claim.example.,1,Delivery Scam,0,0,0,1
+260,Action required: Your account has been selected for a special badge. Apply at http://delivery-update.example.,1,Social Media Scam,0,0,0,1
+106,Action required: Your payment of ₹1999 is pending. Resolve it immediately at http://account-alert.example/login.,1,Financial Scam,1,0,1,1
+54,Important: your account will be restricted unless you verify now at https://example.com/notice.,1,Phishing,1,1,0,1
+390,"Important: Congratulations, you are a lucky winner. Complete verification at https://example.com/notice.",1,Job / Prize Scam,1,1,1,1
+2,Important: Security alert: unusual activity detected. Confirm your account at http://secure-check.example.,1,Phishing,1,1,0,1
+442,Action required: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+483,Alert: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+50,Important: We detected a security issue. Sign in through http://secure-check.example to secure your account.,1,Phishing,1,1,0,1
+420,"Action required: Congratulations, you are a lucky winner. Complete verification at http://account-alert.example/login.",1,Job / Prize Scam,1,1,1,1
+81,Update: Your payment of ₹999 is pending. Resolve it immediately at https://example.org/verify.,1,Financial Scam,1,0,1,1
+206,Action required: Click http://verify-account.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+35,Update: We detected a security issue. Sign in through https://example.org/verify to secure your account.,1,Phishing,1,1,0,1
+264,Action required: Someone reported your profile. Review the case at http://verify-account.example.,1,Social Media Scam,1,1,0,1
+428,Important: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+367,Update: You won a prize worth ₹999. Claim it immediately at http://reward-claim.example.,1,Job / Prize Scam,1,0,1,1
+92,Important: A refund of ₹249 is waiting. Submit your details at https://example.com/notice.,1,Financial Scam,1,0,1,1
+340,Important: Your package tracking needs confirmation. Open http://delivery-update.example.,1,Delivery Scam,0,0,0,1
+474,Action required: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+53,Alert: Your login session is at risk. Verify your identity using http://delivery-update.example.,1,Phishing,1,1,0,1
+346,Action required: Your parcel could not be delivered. Pay ₹1999 and reschedule at https://example.org/verify.,1,Delivery Scam,1,0,1,1
+265,Alert: Your account has been selected for a special badge. Apply at http://secure-check.example.,1,Social Media Scam,0,0,0,1
+242,Important: You have a new verification request. Confirm it at https://example.org/verify.,1,Social Media Scam,1,1,0,1
+14,Important: your account will be restricted unless you verify now at https://example.com/notice.,1,Phishing,1,1,0,1
+316,Important: Your parcel could not be delivered. Pay ₹249 and reschedule at http://delivery-update.example.,1,Delivery Scam,1,0,1,1
+89,Update: Your wallet has received a suspicious request. Approve it at https://example.org/verify.,1,Financial Scam,1,0,1,1
+388,Action required: Work-from-home opportunity: submit your bank details at http://account-alert.example/login.,1,Job / Prize Scam,1,1,1,1
+274,Important: Someone reported your profile. Review the case at https://example.org/verify.,1,Social Media Scam,1,1,0,1
+167,Update: Enter your login details at https://example.com/notice to complete the security check.,1,Credential Scam,1,1,0,1
+329,Update: A small delivery fee of ₹999 is required. Complete it at http://secure-check.example.,1,Delivery Scam,1,0,1,1
+493,Update: Your appointment is scheduled for tomorrow at 10:00 AM.,0,Legitimate,0,0,0,0
+135,Update: Use https://example.com/notice and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+307,Alert: Delivery address issue detected. Confirm your details at http://account-alert.example/login.,1,Delivery Scam,1,1,0,1
+481,Update: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+320,Important: Your package tracking needs confirmation. Open http://verify-account.example.,1,Delivery Scam,0,0,0,1
+244,Action required: Someone reported your profile. Review the case at http://delivery-update.example.,1,Social Media Scam,1,1,0,1
+55,Update: We detected a security issue. Sign in through http://reward-claim.example to secure your account.,1,Phishing,1,1,0,1
+364,Action required: Limited vacancies available. Registration closes today at http://account-alert.example/login.,1,Job / Prize Scam,1,0,0,1
+51,Update: Your account needs immediate verification. Open https://example.org/verify to keep access.,1,Phishing,1,1,0,1
+457,Update: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+175,Update: Use https://example.com/notice and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+446,Action required: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+190,Action required: View your message here: http://verify-account.example,1,Suspicious Link,0,0,0,1
+497,Update: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+188,Important: Your document is ready. Download it from http://reward-claim.example.,1,Suspicious Link,1,0,0,1
+170,Important: Use http://verify-account.example and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+59,Update: Important: your account will be restricted unless you verify now at https://example.org/verify.,1,Phishing,1,1,0,1
+49,Alert: Important: your account will be restricted unless you verify now at http://verify-account.example.,1,Phishing,1,1,0,1
+345,Update: Your package tracking needs confirmation. Open http://secure-check.example.,1,Delivery Scam,0,0,0,1
+236,Important: Click http://reward-claim.example to check your pending notification.,1,Suspicious Link,1,0,0,1
+253,Alert: Your creator reward is ready. Claim it through https://example.com/notice.,1,Social Media Scam,1,0,1,1
+22,Important: Security alert: unusual activity detected. Confirm your account at https://example.com/notice.,1,Phishing,1,1,0,1
+314,Action required: A small delivery fee of ₹1999 is required. Complete it at https://example.org/verify.,1,Delivery Scam,1,0,1,1
+460,Important: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+161,Alert: Confirm your username and password at http://support-check.example to prevent account closure.,1,Credential Scam,1,1,0,1
+277,Alert: You have a new verification request. Confirm it at https://example.com/notice.,1,Social Media Scam,1,1,0,1
+444,Important: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+192,Important: Open https://example.org/verify to view the latest account update.,1,Suspicious Link,0,0,0,1
+386,Important: Congratulations! You have been shortlisted for a job. Pay ₹249 to confirm.,1,Job / Prize Scam,1,0,1,1
+294,Important: Someone reported your profile. Review the case at http://reward-claim.example.,1,Social Media Scam,1,1,0,1
+414,Important: Limited vacancies available. Registration closes today at https://example.com/notice.,1,Job / Prize Scam,1,0,0,1
+344,Important: A small delivery fee of ₹249 is required. Complete it at http://verify-account.example.,1,Delivery Scam,1,0,1,1
+258,Important: Your creator reward is ready. Claim it through https://example.org/verify.,1,Social Media Scam,1,0,1,1
+309,Update: A small delivery fee of ₹999 is required. Complete it at https://example.com/notice.,1,Delivery Scam,1,0,1,1
+150,Important: Use http://delivery-update.example and submit your account details to restore access.,1,Credential Scam,1,1,0,1
+131,Update: Confirm your username and password at http://secure-check.example to prevent account closure.,1,Credential Scam,1,1,0,1
+152,Action required: Enter your login details at http://reward-claim.example to complete the security check.,1,Credential Scam,1,1,0,1
+360,Important: Your package tracking needs confirmation. Open http://verify-account.example.,1,Delivery Scam,0,0,0,1
+100,Important: Complete the verification to receive your ₹249 payment at https://example.com/notice.,1,Financial Scam,1,0,1,1
+373,Alert: Work-from-home opportunity: submit your bank details at http://delivery-update.example.,1,Job / Prize Scam,1,1,1,1
+88,Important: You have been selected for a cash reward of ₹249. Claim at http://secure-check.example.,1,Financial Scam,1,0,1,1
+459,Alert: Your payment was received successfully. No action is required.,0,Legitimate,0,0,1,0
+331,Alert: Your parcel could not be delivered. Pay ₹149 and reschedule at http://account-alert.example/login.,1,Delivery Scam,1,0,1,1
+215,Alert: View your message here: http://secure-check.example,1,Suspicious Link,0,0,0,1
+467,Alert: Your order has been delivered successfully. Thank you for shopping with us.,0,Legitimate,0,0,0,0
+122,Important: Enter your login details at http://verify-account.example to complete the security check.,1,Credential Scam,1,1,0,1
+500,Important: Your password was changed successfully. Contact support if this was not you.,0,Legitimate,0,0,0,0
+21,Alert: Your account needs immediate verification. Open http://delivery-update.example to keep access.,1,Phishing,1,1,0,1
+189,Update: Tap http://support-check.example to continue the requested verification.,1,Suspicious Link,1,1,0,1
+72,Important: A refund of ₹249 is waiting. Submit your details at http://secure-check.example.,1,Financial Scam,1,0,1,1
+107,Alert: A refund of ₹149 is waiting. Submit your details at http://delivery-update.example.,1,Financial Scam,1,0,1,1
+271,Update: Your social account may be suspended. Appeal now at http://support-check.example.,1,Social Media Scam,1,1,0,1
+349,Update: A small delivery fee of ₹999 is required. Complete it at https://example.com/notice.,1,Delivery Scam,1,0,1,1
+436,Important: Your monthly account statement is available in the official app.,0,Legitimate,0,0,0,0
+103,Alert: You have been selected for a cash reward of ₹149. Claim at http://verify-account.example.,1,Financial Scam,1,0,1,1
